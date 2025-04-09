@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -111,3 +112,7 @@ Instructions coming soon...  
 This is an early-stage project – contributions, ideas, and feedback are welcome!  
 이 프로젝트는 초기 단계입니다 – 기여, 아이디어, 피드백 모두 환영합니다!
 
+=======
+# POLI-COMMUNITY
+A full-stack political &amp; social community app using Go and SvelteKit
+>>>>>>> 3b8293ad109965fa948a2ae97a4b272a41eb232c
